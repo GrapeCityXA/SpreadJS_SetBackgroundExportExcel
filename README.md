@@ -1,0 +1,2 @@
+# SpreadJS_SetBackgroundExportExcel
+在纯前端在线表格中实现设置背景导出 Excel功能
